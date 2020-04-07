@@ -1,7 +1,8 @@
+#备忘一个已经学完的项目
+
 # mmall_learning
 
 MarkDown里面没有图...小伙伴们请看WORD文档呀...
-
 
 
 ## 学习必读
@@ -74,13 +75,11 @@ Eclipse：
 # 课程学习快速通道
 
 1.	在慕课网课程下载源码，解压缩，下载源码步骤如下。
- 
 
 2.	如何进入QQ课程技术交流群
 首先进入课程网址(一期和二期是不同的QQ课程技术交流群)，点击进入课程，
 如图所示，进群的时候一定要填写验证信息，每个验证信息只能使用一次。
  
-
 3.	支付宝： 具体的支付宝对接时候各种文档等，url比较长，特意给大家整理了。请访问 http://learning.happymmall.com/alipaydoc.html 这个网址。
 4.	PPT长命令：ppt里面的长命令也给小伙伴们整理了。请访问 http://learning.happymmall.com/pptcommand.html 
 5.	一期课程的思维导图：
@@ -105,20 +104,10 @@ http://learning.happymmall.com/%E4%BA%8C%E6%9C%9F%E9%9B%86%E7%BE%A4%E5%8F%8A%E7%
 9.	课程软件及配置 http://learning.happymmall.com/
 
 10.	线上地址(如需登录请登录开放前台及开放后台)
-
 前台 http://www.happymmall.com
-
 后台 http://admin.happymmall.com
-
 
 ## 开放前台 http://test.happymmall.com
 ## 开放后台 http://admintest.happymmall.com
 ## 账号：admin 密码：admin
-## (为了更多小伙伴们体验使用，请不要修改密码)
-
-
-# 最后希望小伙伴们学的开心~码的快乐~收获满满~祝大家工作愉快~生活幸福~
-
-Geely
-
 
